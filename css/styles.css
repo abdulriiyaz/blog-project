@@ -1,0 +1,27 @@
+h1{
+    color: rgb(7, 7, 57);
+    font-size: 70px;
+   }
+p{
+    color: rgb(234, 33, 103);
+    font-style: italic; 
+   }
+header{   
+   text-align: center;
+   background-color: aquamarine;
+   padding-top: 15px;
+   padding-bottom: 15px;
+}
+body{
+   background-color: beige;
+   margin-left: 5%;
+   margin-right: 5%;
+} 
+.image1{
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+}
+     
+     
+ 
