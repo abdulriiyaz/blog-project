@@ -3,17 +3,17 @@ h1{
     font-size: 70px;
    }
 p{
-    color: rgb(234, 33, 103);
+    color: rgb(0, 0, 0);
     font-style: italic; 
    }
 header{   
    text-align: center;
-   background-color: aquamarine;
+   background-color: rgb(222, 138, 255);
    padding-top: 15px;
    padding-bottom: 15px;
 }
 body{
-   background-color: beige;
+   background-color: rgb(255, 255, 255);
    margin-left: 5%;
    margin-right: 5%;
 } 
@@ -21,6 +21,10 @@ body{
     max-width: 100%;
     text-align: center;
     margin: auto;
+}
+
+li{
+   list-style-type: none;
 }
      
      
